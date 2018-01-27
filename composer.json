@@ -5,7 +5,6 @@
         "php": "^7.0.8",
         "ext-iconv": "*",
         "sensio/framework-extra-bundle": "^5.1",
-        "symfony/apache-pack": "^1.0",
         "symfony/console": "^3.4",
         "symfony/flex": "^1.0",
         "symfony/framework-bundle": "^3.4",
@@ -53,7 +52,7 @@
     },
     "extra": {
         "symfony": {
-            "id": "01C4KZYRDCZN7MJ8WYRP1NW06H",
+            "id": "01C4SKMNZQ5C6EEJEH2C87P7NZ",
             "allow-contrib": false
         }
     }
